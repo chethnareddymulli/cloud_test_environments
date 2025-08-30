@@ -1,0 +1,29 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# AWS credentials or other secrets
+*.pem
+*.key
+*.env
+*.aws/credentials
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE / editor files
+.vscode/
+.idea/
+*.iml
