@@ -1,0 +1,7 @@
+{
+  "aws_region": "us-east-1",
+  "linux_ami": "ami-0c94855ba95c71c99",
+  "windows_ami": "ami-0b2f6494ff0b07a0e",
+  "instance_type": "t2.micro",
+  "key_name": "<your-key-name>"
+}
